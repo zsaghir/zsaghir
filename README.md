@@ -33,9 +33,6 @@
 
 ## <p align="center">Languages I use most</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsaghir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ## <p align="center">Contribution snake</p>
 
