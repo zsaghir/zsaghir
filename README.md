@@ -31,19 +31,6 @@
   <img src="https://skillicons.dev/icons?i=go,ts,python,react,nextjs,tailwind,postgres,sklearn,docker,azure,githubactions,git,figma,vercel" alt="Tools" />
 </p>
 
-## <p align="center">Languages I use most</p>
-
-
-## <p align="center">Contribution snake</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zsaghir/zsaghir/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zsaghir/zsaghir/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zsaghir/zsaghir/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ## <p align="center">Say hi</p>
 
 <p align="center">
