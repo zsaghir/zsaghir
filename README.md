@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&pause=1400&color=14B8A6&center=true&vCenter=true&width=700&lines=CS+student+%40+UAlberta;Building+apps+that+help+brains+focus+%F0%9F%A7%A0;Badminton+enthusiast+%F0%9F%8F%B8;Probably+on+a+hiking+trail+%F0%9F%A5%BE" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&pause=1400&color=14B8A6&center=true&vCenter=true&width=700&lines=CS+student+%40+UAlberta;Building+apps+that+help+brains+focus+%F0%9F%A7%A0;Always+learning+something+new+%F0%9F%8C%B1" alt="typing intro" />
 </p>
 
 ## <p align="center">About me</p>
@@ -18,18 +18,11 @@
 ## <p align="center">Things I've built</p>
 
 <p align="center">
-  <a href="https://github.com/zsaghir/neurosync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zsaghir&repo=neurosync&theme=tokyonight&hide_border=true" alt="NeuroSync" />
-  </a>
-  <a href="https://github.com/zsaghir/flowsync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zsaghir&repo=flowsync&theme=tokyonight&hide_border=true" alt="FlowSync" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zsaghir/alberta-rent-watch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zsaghir&repo=alberta-rent-watch&theme=tokyonight&hide_border=true" alt="Alberta Rent Watch" />
-  </a>
+  <a href="https://github.com/zsaghir/neurosync"><strong>🧠 NeuroSync</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/zsaghir/flowsync"><strong>⚡ FlowSync</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/zsaghir/alberta-rent-watch"><strong>🏠 Alberta Rent Watch</strong></a>
 </p>
 
 ## <p align="center">Tools I play with</p>
